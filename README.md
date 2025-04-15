@@ -1,10 +1,10 @@
 # 🔐 Password Generator
 
 ## 📖 Table of Contents
-- [Overview](#🌟-overview)
-- [Features](#✨-features)
-- [Tech Stack](#🛠️-tech-stack)
-- [Usage Instructions](#🚀-usage-instructions)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Usage Instructions](#-usage-instructions)
 - [License](#-license)
 
 ## 🌟 Overview
