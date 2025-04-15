@@ -5,7 +5,7 @@
 - [Features](#✨-features)
 - [Tech Stack](#🛠️-tech-stack)
 - [Usage Instructions](#🚀-usage-instructions)
-- [License](#📜-license)
+- [License](#-license)
 
 ## 🌟 Overview
 The **Password Generator** is a web application that allows users to generate secure passwords based on customizable criteria. Users can specify the length of the password and choose to include uppercase letters, lowercase letters, numbers, and symbols. The application provides a user-friendly interface and visual indicators for password strength.
