@@ -25,11 +25,11 @@ The **Password Generator** is a web application that allows users to generate se
 ## 🚀 Usage Instructions
 1. Clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/PasswordGenerator.git
+   git clone https://github.com/AlokKumarYadav2410/password-generator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PasswordGenerator
+   cd password-generator
    ```
 3. Open `index.html` in your web browser to start using the Password Generator.
 4. Adjust the password length using the slider and select your desired options.
