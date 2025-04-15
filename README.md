@@ -4,16 +4,15 @@
 - [Overview](#-overview)
 - [Screenshot](#-screenshot)
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
 - [Usage Instructions](#-usage-instructions)
 - [License](#-license)
 
 ## 🌟 Overview
 The **Password Generator** is a web application that allows users to generate secure passwords based on customizable criteria. Users can specify the length of the password and choose to include uppercase letters, lowercase letters, numbers, and symbols. The application provides a user-friendly interface and visual indicators for password strength.
 
-## Screenshot
-<img src="assets/mainscreen.png" alt="main-screen">
-<img src="assets/passgen.png" alt="pass-gen">
+## 🔍 Screenshot
+<img src="assets/mainscreen.png" height="300px" alt="main-screen">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/passgen.png" height="300px" alt="pass-gen">
 
 ## ✨ Features
 - 🔢 Generate passwords of customizable lengths (1 to 20 characters).
