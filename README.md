@@ -2,6 +2,7 @@
 
 ## 📖 Table of Contents
 - [Overview](#-overview)
+- [Live Demo](#-live-demo)
 - [Screenshot](#-screenshot)
 - [Features](#-features)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
@@ -10,6 +11,13 @@
 
 ## 🌟 Overview
 The **Password Generator** is a web application that allows users to generate secure passwords based on customizable criteria. Users can specify the length of the password and choose to include uppercase letters, lowercase letters, numbers, and symbols. The application provides a user-friendly interface and visual indicators for password strength.
+
+👉 **Try it now:** [Live Demo](https://password-generator-gilt-eight-39.vercel.app)
+
+## 🚀 Live Demo
+Click the link below to try the Password Generator instantly:
+
+🔗 [Password Generator Live Demo](https://password-generator-gilt-eight-39.vercel.app)
 
 ## 🔍 Screenshot
 <img src="assets/mainscreen.png" height="300px" alt="main-screen">&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/passgen.png" height="300px" alt="pass-gen">
